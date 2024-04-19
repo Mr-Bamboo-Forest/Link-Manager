@@ -1,4 +1,4 @@
-# Link-Manager
+# Link-Manager 
 
 ## Remember to ⭐ and 👀 the repository. It boosts my ego.
 
